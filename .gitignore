@@ -106,7 +106,7 @@ notebooks/*/model/**
 notebooks/*/data/**
 notebooks/*/cache/**
 notebooks/*/.cache/**
-
+app/node_modules/**
 # Local pip cache directories
 pipcache/
 pipcache_openvino/
